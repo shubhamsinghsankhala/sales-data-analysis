@@ -15,4 +15,5 @@ Analyze sales data to find trends and top-performing products.
 - dashboard screenshot
 
 ## 📸 Dashboard
-(Add your screenshot here)
+<img width="1320" height="653" alt="image" src="https://github.com/user-attachments/assets/9ebf6b0c-8dee-4363-b2b0-74d97ee805b8" />
+
